@@ -29,6 +29,7 @@ auth_totp_mail_enforce
 auth_totp_portal
 barcodes
 barcodes_gs1_nomenclature
+base
 base_address_extended
 base_automation
 base_geolocalize

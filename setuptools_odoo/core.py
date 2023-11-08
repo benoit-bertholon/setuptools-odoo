@@ -129,6 +129,17 @@ ODOO_VERSION_INFO = {
         "universal_wheel": False,
         "git_postversion_strategy": STRATEGY_DOT_N,
     },
+    "17.0": {
+        "odoo_dep": "odoo>=17.0a,<17.1dev",
+        "base_addons": base_addons.odoo17,
+        "pkg_name_pfx": "odoo-addon",
+        "pkg_version_specifier": ">=17.0dev,<17.1dev",
+        "addons_ns": "odoo.addons",
+        "namespace_packages": None,
+        "python_requires": ">=3.10",
+        "universal_wheel": False,
+        "git_postversion_strategy": STRATEGY_DOT_N,
+    },
 }
 
 

@@ -32,6 +32,7 @@ account_reports
 account_reports_cash_basis
 account_reports_tax_reminder
 account_saft
+account_saft_import
 account_sepa
 account_sepa_direct_debit
 account_taxcloud
@@ -49,6 +50,8 @@ approvals_purchase
 approvals_purchase_stock
 base_automation_hr_contract
 contacts_enterprise
+CONTRIBUTING.md
+COPYRIGHT
 crm_enterprise
 crm_enterprise_partner_assign
 crm_helpdesk
@@ -68,6 +71,7 @@ delivery_iot
 delivery_sendcloud
 delivery_shiprocket
 delivery_ups
+delivery_ups_rest
 delivery_usps
 digest_enterprise
 documents
@@ -169,6 +173,7 @@ l10n_au_reports
 l10n_be_account_disallowed_expenses_fleet
 l10n_be_coda
 l10n_be_codabox
+l10n_be_codabox_bridge
 l10n_be_disallowed_expenses
 l10n_be_hr_contract_salary
 l10n_be_hr_payroll
@@ -186,6 +191,8 @@ l10n_be_us_consolidation_demo
 l10n_bg_reports
 l10n_bo_reports
 l10n_br_avatax
+l10n_br_edi
+l10n_br_edi_sale
 l10n_br_reports
 l10n_br_test_avatax_sale
 l10n_ca_check_printing
@@ -210,10 +217,12 @@ l10n_din5008_industry_fsm
 l10n_din5008_sale_renting
 l10n_dk_edi
 l10n_dk_reports
+l10n_dk_saft_import
 l10n_do_reports
 l10n_dz_reports
 l10n_ec_edi
 l10n_ec_reports
+l10n_ec_reports_ats
 l10n_ee_reports
 l10n_es_real_estates
 l10n_es_reports
@@ -229,6 +238,7 @@ l10n_hk_hr_payroll_account
 l10n_hr_reports
 l10n_hu_reports
 l10n_ie_reports
+l10n_in_documents
 l10n_in_hr_payroll
 l10n_in_hr_payroll_account
 l10n_in_reports
@@ -241,8 +251,10 @@ l10n_ke_reports
 l10n_kz_reports
 l10n_lt_hr_payroll
 l10n_lt_hr_payroll_account
+l10n_lt_intrastat
 l10n_lt_reports
 l10n_lt_saft
+l10n_lt_saft_import
 l10n_lu_hr_payroll
 l10n_lu_hr_payroll_account
 l10n_lu_reports
@@ -256,7 +268,9 @@ l10n_mx_edi_landing
 l10n_mx_edi_pos
 l10n_mx_edi_sale
 l10n_mx_edi_stock
+l10n_mx_edi_stock_30
 l10n_mx_edi_stock_extended
+l10n_mx_edi_stock_extended_30
 l10n_mx_edi_website_sale
 l10n_mx_hr_payroll
 l10n_mx_hr_payroll_account
@@ -275,6 +289,7 @@ l10n_no_saft
 l10n_pe_edi
 l10n_pe_edi_stock
 l10n_pe_reports
+l10n_ph_reports
 l10n_pk_reports
 l10n_pl_hr_payroll
 l10n_pl_hr_payroll_account
@@ -285,6 +300,7 @@ l10n_ro_hr_payroll
 l10n_ro_hr_payroll_account
 l10n_ro_reports
 l10n_ro_saft
+l10n_ro_saft_import
 l10n_rs_reports
 l10n_sa_hr_payroll
 l10n_sa_hr_payroll_account
@@ -306,6 +322,7 @@ l10n_us_hr_payroll
 l10n_us_hr_payroll_account
 l10n_us_payment_nacha
 l10n_us_reports
+LICENSE
 mail_enterprise
 mail_mobile
 maintenance_worksheet
@@ -343,9 +360,11 @@ pos_l10n_se
 pos_online_payment_self_order_preparation_display
 pos_order_tracking_display
 pos_preparation_display
+pos_pricer
 pos_restaurant_appointment
 pos_restaurant_preparation_display
 pos_sale_stock_renting
+pos_self_order_iot
 pos_self_order_preparation_display
 pos_settle_due
 product_unspsc
@@ -373,6 +392,7 @@ quality_mrp
 quality_mrp_workorder
 quality_mrp_workorder_iot
 quality_mrp_workorder_worksheet
+README.md
 room
 sale_account_accountant
 sale_account_taxcloud
@@ -398,6 +418,7 @@ sale_subscription_stock
 sale_subscription_taxcloud
 sale_timesheet_enterprise
 sale_timesheet_enterprise_holidays
+setup
 sign
 sign_itsme
 snailmail_account_followup

@@ -50,8 +50,6 @@ approvals_purchase
 approvals_purchase_stock
 base_automation_hr_contract
 contacts_enterprise
-CONTRIBUTING.md
-COPYRIGHT
 crm_enterprise
 crm_enterprise_partner_assign
 crm_helpdesk
@@ -322,7 +320,6 @@ l10n_us_hr_payroll
 l10n_us_hr_payroll_account
 l10n_us_payment_nacha
 l10n_us_reports
-LICENSE
 mail_enterprise
 mail_mobile
 maintenance_worksheet
@@ -392,7 +389,6 @@ quality_mrp
 quality_mrp_workorder
 quality_mrp_workorder_iot
 quality_mrp_workorder_worksheet
-README.md
 room
 sale_account_accountant
 sale_account_taxcloud
@@ -418,7 +414,6 @@ sale_subscription_stock
 sale_subscription_taxcloud
 sale_timesheet_enterprise
 sale_timesheet_enterprise_holidays
-setup
 sign
 sign_itsme
 snailmail_account_followup

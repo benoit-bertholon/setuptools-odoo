@@ -1,4 +1,3 @@
-# generated on Wed Sep 20 12:37:34 2023
 account
 account_check_printing
 account_debit_note
@@ -109,6 +108,7 @@ l10n_ar_website_sale
 l10n_at
 l10n_au
 l10n_be
+l10n_be_pos_sale
 l10n_bg
 l10n_bo
 l10n_br
@@ -176,6 +176,7 @@ l10n_in_upi
 l10n_it
 l10n_it_edi
 l10n_it_edi_pa
+l10n_it_edi_website_sale
 l10n_it_edi_withholding
 l10n_it_stock_ddt
 l10n_jp
@@ -354,11 +355,11 @@ sale_purchase
 sale_purchase_stock
 sale_quotation_builder
 sale_sms
+sales_team
 sale_stock
 sale_stock_margin
 sale_timesheet
 sale_timesheet_margin
-sales_team
 sms
 snailmail
 snailmail_account
@@ -407,8 +408,6 @@ utm
 web
 web_editor
 web_kanban_gauge
-web_tour
-web_unsplash
 website
 website_blog
 website_crm
@@ -472,3 +471,5 @@ website_slides_forum
 website_slides_survey
 website_sms
 website_twitter
+web_tour
+web_unsplash

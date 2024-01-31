@@ -17,7 +17,7 @@ SETUP_PY = """\
 import setuptools
 
 setuptools.setup(
-    setup_requires=['setuptools-odoo'],
+    setup_requires=['setuptools-odoo@git+ssh://git@github.com/benoit-bertholon/setuptools-odoo@master#egg=setuptools-odoo'],
     odoo_addon={odoo_addon},
 )
 """

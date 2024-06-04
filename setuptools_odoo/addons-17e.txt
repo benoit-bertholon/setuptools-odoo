@@ -287,7 +287,6 @@ l10n_no_saft
 l10n_pe_edi
 l10n_pe_edi_stock
 l10n_pe_reports
-l10n_ph_reports
 l10n_pk_reports
 l10n_pl_hr_payroll
 l10n_pl_hr_payroll_account
